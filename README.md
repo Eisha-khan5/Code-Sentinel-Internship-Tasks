@@ -1,6 +1,6 @@
 # Code Sentinel Internship Tasks 
 
-This repository contains the completed tasks for the **CodeSentinel Deep Learning & Machine Learning Internship Program (August 2, 2025 – August 31, 2025)**.  
+This repository contains the completed tasks for the **CodeSentinel Artificial Intelligence Internship Program (August 2, 2025 – August 31, 2025)**.  
 The tasks demonstrate applied AI/ML skills in neural networks, transfer learning, regression, classification, and web app deployment.  
 
 ---
