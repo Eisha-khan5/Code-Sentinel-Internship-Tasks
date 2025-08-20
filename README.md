@@ -7,20 +7,20 @@ The tasks demonstrate applied AI/ML skills in neural networks, transfer learning
 
 ## ✅ Tasks Completed  
 
-- **Task 1: Training a Neural Network with Keras/TensorFlow on MNIST Dataset**  
-  - Built and trained a neural network on the MNIST handwritten digits dataset.  
-
-- **Task 2: Image Classification with Transfer Learning**  
-  - Applied transfer learning using pre-trained CNN models.  
-  - Leveraged fine-tuning and data augmentation to improve classification performance.  
-
-- **Task 3: Linear Regression on Housing Data**  
+- **Task 1: Linear Regression on Housing Data**  
   - Implemented Linear Regression on the California Housing dataset.  
   - Predicted house prices and visualized performance using plots.  
 
-- **Task 4: Classification Models Comparison (Iris Dataset)**  
+- **Task 2: Classification Models Comparison (Iris Dataset)**  
   - Built Logistic Regression, Decision Tree, and KNN classifiers.  
   - Compared models using accuracy, confusion matrix, and classification reports.  
+
+- **Task 3: Training a Neural Network with Keras/TensorFlow on MNIST Dataset**  
+  - Built and trained a neural network on the MNIST handwritten digits dataset.  
+
+- **Task 4: Image Classification with Transfer Learning**  
+  - Applied transfer learning using pre-trained CNN models.  
+  - Leveraged fine-tuning and data augmentation to improve classification performance.  
 
 - **Task 5: AI-Powered Web App with Streamlit**  
   - Developed a Streamlit-based AI web app with a clean and interactive UI.  
